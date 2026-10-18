@@ -1,0 +1,133 @@
+[
+  {
+    "path": "SysWOW64/msvcp140.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/SysWOW64/msvcp140.dll",
+    "sourceType": "original-url",
+    "architecture": "x86",
+    "version": "14.38.33135.0",
+    "sha256": "85aa8c8ab4cbf1ff9ae5c7bde1bf6da2e18a570e36e2d870b88536b8658c5ba8",
+    "size": 446840,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "SysWOW64/msvcp140d.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/SysWOW64/msvcp140d.dll",
+    "sourceType": "original-url",
+    "architecture": "x86",
+    "version": "14.29.30153.0 built by: cloudtest",
+    "sha256": "13aa9c0f4f3609be93b280b1b05e239638ea839c95842e8c91684ccf31928da1",
+    "size": 721840,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "SysWOW64/ucrtbased.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/SysWOW64/ucrtbased.dll",
+    "sourceType": "original-url",
+    "architecture": "x86",
+    "version": "10.0.19041.685 (WinBuild.160101.0800)",
+    "sha256": "1236bcb77184477ec059d5fcb51e4d67afe0cd19a013fb950020798c21de491b",
+    "size": 1521120,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "SysWOW64/vcruntime140.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/SysWOW64/vcruntime140.dll",
+    "sourceType": "original-url",
+    "architecture": "x86",
+    "version": "14.38.33135.0",
+    "sha256": "c7d9dfddbe68cf7c6f0b595690e31a26df4780f465d2b90b5f400f2d8d788512",
+    "size": 91104,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "SysWOW64/vcruntime140d.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/SysWOW64/vcruntime140d.dll",
+    "sourceType": "original-url",
+    "architecture": "x86",
+    "version": "14.29.30153.0 built by: cloudtest",
+    "sha256": "5ca1aa6c95eff2c34e55674a49d175d4923ee7f7a5988b45fc964cc875c8d547",
+    "size": 116152,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "System32/msvcp140.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/System32/msvcp140.dll",
+    "sourceType": "original-url",
+    "architecture": "x64",
+    "version": "14.38.33135.0",
+    "sha256": "1e57a6df9e3742e31a1c6d9bff81ebeeae8a7de3b45a26e5079d5e1cce54cd98",
+    "size": 573008,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "System32/msvcp140d.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/System32/msvcp140d.dll",
+    "sourceType": "original-url",
+    "architecture": "x64",
+    "version": "14.29.30153.0 built by: cloudtest",
+    "sha256": "5797d882322e92f4b947518dcbf402c64b40fe3dacd798e5d8db90731ebd39be",
+    "size": 916000,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "System32/ucrtbased.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/System32/ucrtbased.dll",
+    "sourceType": "original-url",
+    "architecture": "x64",
+    "version": "10.0.19041.685 (WinBuild.160101.0800)",
+    "sha256": "203d10b0deaea87d5687d362ba925289a13e52b5df55b9de58ba534290af27bf",
+    "size": 1854416,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "System32/vcruntime140.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/System32/vcruntime140.dll",
+    "sourceType": "original-url",
+    "architecture": "x64",
+    "version": "14.38.33135.0",
+    "sha256": "a06c9ea4f815dac75d2c99684d433fbfc782010fae887837a03f085a29a217e8",
+    "size": 119376,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "System32/vcruntime140d.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/System32/vcruntime140d.dll",
+    "sourceType": "original-url",
+    "architecture": "x64",
+    "version": "14.29.30153.0 built by: cloudtest",
+    "sha256": "e3af656c5ee130254321041c26bb1ea1efb5ab1ecc15c962f1fd27fec5abb722",
+    "size": 164800,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "System32/vcruntime140_1d.dll",
+    "sourceUrl": "https://raw.githubusercontent.com/ramziyehyayehya779/dll/main/System32/vcruntime140_1d.dll",
+    "sourceType": "original-url",
+    "architecture": "x64",
+    "version": "14.29.30153.0 built by: cloudtest",
+    "sha256": "66bd8ae0cc906b55883431cd8f4eb5cb2c5bf4ae0b0709964f1a772c721832d4",
+    "size": 54304,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "path": "System32/vcruntime140_1.dll",
+    "sourceType": "local-system",
+    "architecture": "x64",
+    "version": "14.50.35719.0",
+    "sha256": "e6bfb3662ab4b1969a73441dbe35c96d51441b6bff8cf1fe7430bd5b246ca605",
+    "size": 47264,
+    "signatureStatus": "Valid",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  }
+]
